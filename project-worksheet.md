@@ -8,28 +8,36 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|Day 1| Project Description | Incomplete
-|Day 1| Wireframes / Priority Matrix / Timeline | Incomplete
-|Day 3| Core Application Structure (HTML, CSS, etc.) | Incomplete
-|Day 4| MVP & Bug Fixes | Incomplete
-|Day 5| Final Touches | Incomplete
-|Day 6| Present | Incomplete
+|Day 1| Project Description | [ ] Complete [ ]Incomplete
+|Day 2| Wireframes / Priority Matrix / Timeline | [ ] Complete [ ] Incomplete
+|Day 3| Core Application Structure (HTML, CSS, etc.) | [ ] Complete [ ]Incomplete
+|Day 4| MVP & Bug Fixes | [ ] Complete [ ] Incomplete
+|Day 5| Final Touches | [ ] Complete [ ]Incomplete
+|Day 6| Present | [ ] Complete [ ] Incomplete
 
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+The few portfolio sites I found show some of the functionality that I would like to have on my site.
+
+<https://shantellmartin.art/>
+
+<https://kittrix.com/>
+
+<https://wimdelvoye.be/>
+
+
 
 ## Google Sheet
 
-Include link to your google sheet here.  Here is the sample [Joe had used in class](https://docs.google.com/spreadsheets/d/15PmioBi2dQEkewpqI7MDkDpvcVF0Trw8vmarAQbwoHk/edit#gid=0) 
+Include link to your google sheet here.  Here is the sample [My Google Sheet](https://docs.google.com/spreadsheets/d/16oWt5naht2TV0UfEzlgu71On8uSEKm9znmuOmXaNR24/edit#gid=0) 
 
 ## Wireframes
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
 
-- [Mobile](https://i.imgur.com/P3iBEZf.jpg)
-- [Desktop](https://i.imgur.com/xpOWo0E.jpg)
+- [Mobile](https://res.cloudinary.com/dv01780vo/image/upload/v1599958533/Wireframe_-_Mobile_bgcwsm.jpg)
+- [Desktop](https://res.cloudinary.com/dv01780vo/image/upload/v1599958531/Wireframe_-_Desktop_ypglp5.jpg)
 
 Wireframing Resources:
 
@@ -41,11 +49,11 @@ Wireframing Resources:
 
 [Link](https://res.cloudinary.com/jkeohan/image/upload/a_270/v1591621734/project1_matrix_ocy5gc_h1kg0m.jpg)
 
-Include a full list of features that have been prioritized based on the `Time and Priority` Matix.  This involves drawing a a square.  In the middle of the square, on the x axis draw a line.  The most left part of the line should start with 0hrs and the end of the line should include 2hrs.  This line will be used to estimate how much time any one feature will take to complete. 
+Include a full list of features that have been prioritized based on the `Time and Priority` Matrix.  This involves drawing a a square.  In the middle of the square, on the x axis draw a line.  The most left part of the line should start with 0hrs and the end of the line should include 2hrs.  This line will be used to estimate how much time any one feature will take to complete. 
 
 Now draw a vertical line on the y axis.  The top of this line should have `High` and the bottom `Low`.  This line will be used to assign a priority to to each feature you wish to include in the project.  
 
-Now create a separate list starting with A and assign it one of the features.  Continue to assign each feature a letter.  Once complete add each letter to the matrix assigning based on what your feel it's prioirty is an how long it will take to implement. If any one feature takes longer than 2hrs to complete than break it down into smaller tasks and reassign them a new letter. 
+Now create a separate list starting with A and assign it one of the features.  Continue to assign each feature a letter.  Once complete add each letter to the matrix assigning based on what your feel it's priority is an how long it will take to implement. If any one feature takes longer than 2hrs to complete than break it down into smaller tasks and reassign them a new letter. 
 
 Once complete tally up the time and determine how long the project will take to complete. Now break those features into MVP and PostMVP so you can guarantee you will have a fully functioning project to demo. 
 
@@ -58,7 +66,7 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 - Pull data using google json api
 - Render data on page 
 - Allow user to choose favorites 
-- Save their choices in firebase
+- Have the carousel working for projects page
 
 #### PostMVP 
 
@@ -76,10 +84,10 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Hamburger | H | 1hr | hr |
 | Project Previews | H | 3hr | hr |
 | Regular Nav | H | 1hr | hr |  
-| Adding Form | H | 1.5hr|  hr | 
-| Other sections and flex| M | 3hr | hr|
+| Adding Form | H | 2hr|  hr | 
+| Other sections and flex| M | 4hr | hr|
 | Working with API | H | 3hrs|  hr | 
-| Responsive | H | 3hr | hr | hr |
+| Responsive | H | 5hr | hr | hr |
 | Social Media Icons | L | 1hr |  hr |
 | Total | H | 15.5hrs| hrs |
 
