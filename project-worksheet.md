@@ -45,6 +45,11 @@ My wireframe links.
 [Link](https://res.cloudinary.com/dv01780vo/image/upload/v1600022170/Time_Priority_Matrix_bzjqlq.jpg)
 
 
+### MVP/Post MVP
+
+
+
+
 
 <!-- ### MVP/PostMVP - 5min
 
@@ -63,22 +68,22 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 ## Functional Components
 
-Based on the initial logic defined in the previous sections try and breakdown the logic further into functional components, and by that we mean functions.  Try and capture what logic would need to be defined if the game was broken down into the following categories.
+<!-- Based on the initial logic defined in the previous sections try and breakdown the logic further into functional components, and by that we mean functions.  Try and capture what logic would need to be defined if the game was broken down into the following categories.
 
-Time frames are also key in the development cycle.  You have limited time to code all phases of the game.  Your estimates can then be used to evalute game possibilities based on time needed and the actual time you have before game must be submitted. It's always best to pad the time by a few hours so that you account for the unknown so add and additional hour or two to each component to play it safe.
+Time frames are also key in the development cycle.  You have limited time to code all phases of the game.  Your estimates can then be used to evalute game possibilities based on time needed and the actual time you have before game must be submitted. It's always best to pad the time by a few hours so that you account for the unknown so add and additional hour or two to each component to play it safe. -->
 
 #### MVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Hamburger | H | 1hr | hr |
+| Hamburger | H | 2hr | hr |
 | Project Previews | H | 3hr | hr |
 | Regular Nav | H | 1hr | hr |  
-| Adding Form | H | 2hr|  hr | 
-| Other sections and flex| M | 4hr | hr|
-| Working with API | H | 3hrs|  hr | 
-| Responsive | H | 5hr | hr | hr |
+| Adding Form | H | 3hr|  hr | 
+| Other sections and flex| M | 5hr | hr|
+| Working with API | H | 2hrs|  hr | 
+| Responsive | H | 6hr | hr | hr |
 | Social Media Icons | L | 1hr |  hr |
-| Total | H | 15.5hrs| hrs |
+| Total | H | 23hrs| hrs |
 
 #### PostMVP
 | Component | Priority | Estimated Time | Actual Time |
@@ -92,11 +97,11 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Total | H | 20hrs| hrs |
 
 ## Additional Libraries
- Use this section to list all supporting libraries and thier role in the project. 
+ <!-- Use this section to list all supporting libraries and thier role in the project.  -->
 
 ## Code Snippet
 
-Use this section to include a brief code snippet of functionality that you are proud of an a brief description  
+<!-- Use this section to include a brief code snippet of functionality that you are proud of an a brief description   -->
 
 ```
 function reverse(string) {
