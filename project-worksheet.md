@@ -42,7 +42,7 @@ My wireframe links.
 
 ## Time/Priority Matrix 
 
-[Link](https://res.cloudinary.com/dv01780vo/image/upload/v1600022170/Time_Priority_Matrix_bzjqlq.jpg)
+[Link](https://res.cloudinary.com/dv01780vo/image/upload/v1600095672/IMG_20200914_075956_uhpads.jpg)
 
 
 ### MVP/Post MVP
