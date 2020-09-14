@@ -30,32 +30,21 @@ The few portfolio sites I found show some of the functionality that I would like
 
 ## Google Sheet
 
-Include link to your google sheet here.  Here is the sample [My Google Sheet](https://docs.google.com/spreadsheets/d/16oWt5naht2TV0UfEzlgu71On8uSEKm9znmuOmXaNR24/edit#gid=0) 
+[My Google Sheet](https://docs.google.com/spreadsheets/d/16oWt5naht2TV0UfEzlgu71On8uSEKm9znmuOmXaNR24/edit#gid=0) 
 
 ## Wireframes
 
-Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
+My wireframe links.
 
 - [Mobile](https://res.cloudinary.com/dv01780vo/image/upload/v1599958533/Wireframe_-_Mobile_bgcwsm.jpg)
 - [Desktop](https://res.cloudinary.com/dv01780vo/image/upload/v1599958531/Wireframe_-_Desktop_ypglp5.jpg)
-
-Wireframing Resources:
-
-- [Mockflow](https://mockflow.com/app/#Wireframe)
-- [Figma](https://www.figma.com/)
 
 
 ## Time/Priority Matrix 
 
 [Link](https://res.cloudinary.com/dv01780vo/image/upload/v1600022170/Time_Priority_Matrix_bzjqlq.jpg)
 
-Include a full list of features that have been prioritized based on the `Time and Priority` Matrix.  This involves drawing a a square.  In the middle of the square, on the x axis draw a line.  The most left part of the line should start with 0hrs and the end of the line should include 2hrs.  This line will be used to estimate how much time any one feature will take to complete. 
 
-Now draw a vertical line on the y axis.  The top of this line should have `High` and the bottom `Low`.  This line will be used to assign a priority to to each feature you wish to include in the project.  
-
-Now create a separate list starting with A and assign it one of the features.  Continue to assign each feature a letter.  Once complete add each letter to the matrix assigning based on what your feel it's priority is an how long it will take to implement. If any one feature takes longer than 2hrs to complete than break it down into smaller tasks and reassign them a new letter. 
-
-Once complete tally up the time and determine how long the project will take to complete. Now break those features into MVP and PostMVP so you can guarantee you will have a fully functioning project to demo. 
 
 ### MVP/PostMVP - 5min
 
@@ -116,7 +105,7 @@ function reverse(string) {
 ```
 
 ## Issues and Resolutions
- Use this section to list of all major issues encountered and their resolution.
+ <!-- Use this section to list of all major issues encountered and their resolution. -->
 
 #### SAMPLE.....
 **ERROR**: app.js:34 Uncaught SyntaxError: Unexpected identifier                                
